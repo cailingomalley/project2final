@@ -1,0 +1,155 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.header{
+	align-items: center
+}
+
+.floatl{
+	float: left;
+}
+
+.bodytext{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: #0A2342;
+}
+
+.hostwarebold{
+	font-weight: 600;
+	color: #F46197;
+}
+
+.titlepadding{
+padding-right: 200pt;
+}
+
+.hiringinfoheading{
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20pt;
+	font-weight: 600;
+	color: #0A2342;
+	text-align: left;	
+}
+
+.pricetext{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: #2CA58D;
+	font-size: 60pt;
+	text-align: center;
+	font-weight: 700;
+}
+
+.redpricetext{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: #ED1C24;
+	font-size: 60pt;
+	text-align: center;
+	font-weight: 700;
+}
+
+.nametitlebold{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20pt;
+	font-weight:600;
+	color: #2CA58D
+}
+
+.qoutetext{
+	font-size: 16pt;
+	color: #84BC9C
+}
+
+.historyimage{
+	padding: 20px;
+}
+
+.aboutusheading{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 30pt;
+	font-weight: 600;
+	color: #0A2342;
+	text-align: center;
+}
+
+.homeheadingred{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 30pt;
+	font-weight: 600;
+	color: #ED1C24;
+	text-align: center;
+}
+
+.aboutusbody{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20pt;
+	font-weight: 600;
+	color: #2CA58D;
+	text-align: center;
+}
+
+.textalignc{
+	text-align: center;
+}
+
+.textalignl{
+	text-align: left;
+}
+
+.textalignr{
+	text-align: right;
+}
+
+.floatr{
+	float: right
+}
+.servicesposition{
+	right: 550px;
+}
+
+.bullettext{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20pt;
+	font-weight: 600;
+	color: #84BC9C;
+	text-align: center;
+}
+
+.hiringinfobody{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 15pt;
+	font-weight: 600;
+	color: #0A2342;
+	text-align: left;	
+}
+
+.auhistoryheading{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 40pt;
+	font-weight: 600;
+	color: #2CA58D;
+	text-align: center;
+}
+
+.auhistorybody{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20pt;
+	color: #0A2342;
+}
+
+.thankyou{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 60pt;
+	font-weight: 600;
+	color: #2CA58D;
+	text-align: center;
+}
+
+.buynow{
+	width: 500px;
+	opacity: 1;
+	transition: width 20s, height 20s;
+}
+
+.buynow:hover{
+	width: 900px
+}
